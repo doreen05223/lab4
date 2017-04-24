@@ -8,4 +8,4 @@ B.
     4 8  
     4 8  
     8 8  
-(2) 
+(2) Because every pointer has a memory location and each needs 8 bytes to store it.
